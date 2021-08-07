@@ -1,0 +1,34 @@
+---
+title: "Welcome to Metrika Blog"
+description: |
+  Welcome to our new blog, Metrika Blog. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Omar Benites-Alfaro 
+    url: https://example.com/norajones
+    email: obacc07@gmail.com
+    affiliation: Metrika Group
+    affiliation_url: https://metrikagr.com
+date: 08-05-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Welcome to the Metrika Group blog! In this blog we will share technical and exploratory topics in agriculture and life science as well as discussing how to be more productive in our workflows.  
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Metrika Blog",
+    "description": "Welcome to our new blog, Metrika Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Omar Benites-Alfaro",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-08-05",
+    "categories": [],
+    "contents": "\r\nSometimes as an R user you may find yourself needing to work with data that is stored in a remote database, but want to continue to use your R-orientated workflow. The dm package by Kirill MÃ¼ller provides some great tools for doing exactly that, and in this post I wanted to share some of the functions Iâ€™ve found particularly useful.\r\nSometimes as an R user you may find yourself needing to work with data that is stored in a remote database, but want to continue to use your R-orientated workflow. The dm package by Kirill MÃ¼ller provides some great tools for doing exactly that, and in this post I wanted to share some of the functions Iâ€™ve found particularly useful.\r\nSometimes as an R user you may find yourself needing to work with data that is stored in a remote database, but want to continue to use your R-orientated workflow. The dm package by Kirill MÃ¼ller provides some great tools for doing exactly that, and in this post I wanted to share some of the functions Iâ€™ve found particularly useful.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-08-06T13:46:32-05:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,29 @@
+name: "metrikablog"
+title: "Metrika Blog"
+description: |
+  The Metrika blog aims to publish techinical and exploratory aspects of tools and technology dedicated to increase productivity in agricultural and life science projects.
+output_dir: "_site"
+base_url: https://metrikagr.com/
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - icon: fab fa-github
+      href: https://github.com/Metrika-Group/
+    - icon: fab fa-twitter
+      href: https://twitter.com/metrikagroup
+    - icon: fab fa-facebook
+      href: https://facebook/metrikagr  
+    - icon: fa fa-rss
+collections:
+  posts:
+    disqus: metrikablog
+    share: [facebook, twitter, linkedin]
+output: distill::distill_article
+theme: "metrikagr_theme.css"
+rss:
+  full_content: TRUE
+  categories:
+    - R

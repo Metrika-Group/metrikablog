@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:distill="https://distill.pub/journal/" version="2.0">
+  <channel>
+    <title>Metrika Blog</title>
+    <link>https://metrikagr.com/</link>
+    <atom:link href="https://metrikagr.com/index.xml" rel="self" type="application/rss+xml"/>
+    <description>The Metrika blog aims to publish techinical and exploratory aspects of tools and technology dedicated to increase productivity in agricultural and life science projects.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 05 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to Metrika Blog</title>
+      <dc:creator>Omar Benites-Alfaro</dc:creator>
+      <link>https://metrikagr.com/posts/welcome</link>
+      <description>Welcome to our new blog, Metrika Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://metrikagr.com/posts/welcome</guid>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
