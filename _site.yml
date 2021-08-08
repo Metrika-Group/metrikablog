@@ -2,6 +2,7 @@ name: "metrikablog"
 title: "Metrika Blog"
 description: |
   The Metrika blog aims to publish techinical and exploratory aspects of tools and technology dedicated to increase productivity in agricultural and life science projects.
+#output_dir: "_site"
 output_dir: "_site"
 base_url: https://metrikagr.com/
 navbar:
