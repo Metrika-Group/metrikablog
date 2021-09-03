@@ -1,16 +1,22 @@
 ---
-title: "GerminaR: Germination data analysis in R"
+title: "GerminaR"
 description: |
-  A short description of the post.
+  Welcome to our new blog, Metrika Blog. We hope you enjoy 
+  reading what we have to say!
 author:
-  - name: Flavio Lozano-Isla
-    url: https://flavjack.com
-date: 08-06-2021
+  - name: Omar Benites-Alfaro 
+    url: https://example.com/norajones
+    email: obacc07@gmail.com
+    affiliation: Metrika Group
+    affiliation_url: https://metrikagr.com
+date: 10-08-2021
+categories:
+  - agriculture
+  - analysis
 output:
   distill::distill_article:
     self_contained: false
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

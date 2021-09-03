@@ -22,9 +22,12 @@ collections:
   posts:
     disqus: metrikablog
     share: [facebook, twitter, linkedin]
+    
 output: distill::distill_article
+        
 theme: "metrikagr_theme.css"
-rss:
-  full_content: TRUE
-  categories:
-    - R
+# 
+# rss:
+#   full_content: TRUE
+#   categories:
+#     - R
